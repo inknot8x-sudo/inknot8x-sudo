@@ -1,10 +1,10 @@
-<h1 align="center">👋 ¡Hola! Soy Alejandro, también conocido como inknot8x</h1>
+<h1 align="center">👋 ¡Hola! Soy Alejandro, soy Desarrollador Web y estudiante de Ingienería de la Ciberseguridad.</h1>
 
 ---
 
 ### 🧠 Sobre mí
 
-Apasionado por la ciberseguridad ofensiva, el desarrollo en Python y el análisis OSINT.  
+Apasionado por la ciberseguridad ofensiva y el desarrollo en general.  
 Actualmente aprendiendo técnicas de reconocimiento, automatización y análisis de superficie de ataque.  
 Mi enfoque es práctico: construir, romper, entender y compartir.
 
@@ -27,7 +27,7 @@ Mi enfoque es práctico: construir, romper, entender y compartir.
 ### 🔎 Proyecto destacado
 
 [**Subdomain Recon Tool**](https://github.com/inknot8x-sudo/subdomain-recon):  
-Herramienta OSINT escrita en Python para enumeración pasiva de subdominios y análisis de servicios web.  
+Herramienta de reconocimiento escrita en Python para enumeración pasiva de subdominios y análisis de servicios web.  
 Ideal para bug bounty, auditorías o aprendizaje técnico.
 
 ---
@@ -44,7 +44,7 @@ Ideal para bug bounty, auditorías o aprendizaje técnico.
 ### 📈 Actividad en GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
