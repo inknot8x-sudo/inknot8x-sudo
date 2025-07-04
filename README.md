@@ -13,13 +13,15 @@ Mi enfoque es práctico: construir, romper, entender y compartir.
 ### 🧰 Tecnologías que utilizo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS logo" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="JavaScript logo" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="WordPress logo" />
+  <img src="https://img.shields.io/badge/BurpSuite-Tool-red?style=for-the-badge&logoColor=white" height="32" alt="Burp Suite badge" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-Hacking-blue?style=for-the-badge&logo=linux&logoColor=white" height="32" alt="Parrot OS badge" />
+  <img src="https://img.shields.io/badge/CMD%20%7C%20Terminal-black?style=for-the-badge&logo=windows&logoColor=white" height="32" alt="Terminal badge" />
 </div>
 
 ---
