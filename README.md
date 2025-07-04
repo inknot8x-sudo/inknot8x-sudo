@@ -12,8 +12,6 @@ Mi enfoque es práctico: construir, romper, entender y compartir.
 
 ### 🧰 Tecnologías que utilizo
 
-### 🧰 Tecnologías que utilizo
-
 <div align="center">
   <!-- Lenguajes y desarrollo web -->
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
