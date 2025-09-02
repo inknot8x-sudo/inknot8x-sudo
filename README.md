@@ -45,7 +45,7 @@ Mi enfoque es práctico: construir, romper, entender y compartir.
 ### 🔎 Proyectos destacados
 
 [**Portfolio**](https://github.com/inknot8x-sudo/Portfolio):  
-Este es mi portfolio profesional, desarrollado en **HTML, CSS y JavaScript**, donde muestro mis proyectos, experiencia y formas de contacto.
+Este es mi portfolio profesional, desarrollado en HTML, CSS y JavaScript, donde muestro mis proyectos, experiencia y contacto. Por otro lado, ha sido desarrollado para mostrar mis habilidades.
 
 
 [**Subdomain Recon Tool**](https://github.com/inknot8x-sudo/subdomain-recon):  
