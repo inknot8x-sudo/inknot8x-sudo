@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Alejandro, soy Desarrollador Web y estudiante de Ingienería de la Ciberseguridad.</h1>
+<h1 align="center">👋 ¡Hola! Soy Alejandro, soy Desarrollador Web y estudiante de Ingeniería de la Ciberseguridad.</h1>
 
 ---
 
