@@ -42,11 +42,16 @@ Mi enfoque es práctico: construir, romper, entender y compartir.
 
 ---
 
-### 🔎 Proyecto destacado
+### 🔎 Proyectos destacados
+
+[**Portfolio**](https://github.com/inknot8x-sudo/Portfolio):  
+Este es mi portfolio profesional, desarrollado en **HTML, CSS y JavaScript**, donde muestro mis proyectos, experiencia y formas de contacto.
+
 
 [**Subdomain Recon Tool**](https://github.com/inknot8x-sudo/subdomain-recon):  
 Herramienta de reconocimiento escrita en Python para enumeración pasiva de subdominios y análisis de servicios web.  
 Ideal para bug bounty, auditorías o aprendizaje técnico.
+
 
 ---
 
