@@ -52,7 +52,9 @@ Este es mi portfolio profesional, desarrollado en HTML, CSS y JavaScript, donde 
 Herramienta de reconocimiento escrita en Python para enumeración pasiva de subdominios y análisis de servicios web.  
 Ideal para bug bounty, auditorías o aprendizaje técnico.
 
-
+[**TheWeatherWeb**](https://github.com/inknot8x-sudo/subdomain-recon): 
+Web interactiva que muestra el clima en tiempo real con animaciones, sonidos ambientales y voz asistida.
+Diseñada para ser accesible, intuitiva y visualmente envolvente. Ideal para demostrar habilidades en desarrollo frontend, UX/UI y accesibilidad web.
 ---
 
 ### 🌐 Conecta conmigo
