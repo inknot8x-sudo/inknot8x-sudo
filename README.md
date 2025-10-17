@@ -55,9 +55,10 @@ Ideal para bug bounty, auditorías o aprendizaje técnico.
 [**TheWeatherWeb**](https://github.com/inknot8x-sudo/TheWeatherWeb):  
 Web interactiva que muestra el clima en tiempo real con animaciones, sonidos ambientales y voz asistida. Diseñada para ser accesible, intuitiva y visualmente envolvente. Ideal para demostrar habilidades en desarrollo frontend, UX/UI y accesibilidad web.
 
-[**Url-guard**](https://github.com/inknot8x-sudo/url-guard):  
+[**Url-guard**](https://github.com/inknot8x-sudo/url-guard)
 Web que analiza cualquier URL sin abrirla y te dice si es **segura**, **sospechosa** o **peligrosa**.  
 Detecta **XSS**, **redirecciones externas** y **phishing/typosquatting**, muestra un **porcentaje de riesgo con colores** y permite **compartir el análisis**.
+
 ---
 
 ### 🌐 Conecta conmigo
